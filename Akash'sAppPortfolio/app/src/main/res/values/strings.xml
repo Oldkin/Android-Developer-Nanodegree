@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Akash\'s App Portfolio</string>
+    <string name="title">My Amazing Apps</string>
+    <string name="button_1">Popular Movies</string>
+    <string name="button_2">Stock Hawk</string>
+    <string name="button_3">Build It Bigger</string>
+    <string name="button_4">Make Your App Material</string>
+    <string name="button_5">Go Ubiquitous</string>
+    <string name="button_6">Capstone</string>
+    <string name="toast">This button will launch </string>
+</resources>
